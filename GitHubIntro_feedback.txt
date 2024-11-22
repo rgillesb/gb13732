@@ -1,0 +1,58 @@
+09/14/24 09:39
+
+File 'github_intro.py' not found!
+
+-------------------------------------------------------------------------------
+
+09/14/24 09:40
+
+Problem 1 (5 points): An error has occurred.
+Check the following:
+  - You removed the "raise NotImplementedError()" from your code
+  - prob1() has the following line of code: return "<Your Name Here>"
+  - You saved your changes
+  - You correctly uploaded your changes to GitHub via the instructions in the lab document
+
+Score += 0
+
+Problem 2 (5 points): An error has occurred.
+Check the following:
+  - You removed the "raise NotImplementedError()" from your code
+  - problem2() has the following line of code: return "<Your Name Here>"
+  - You saved your changes
+  - You correctly uploaded your changes to GitHub via the instructions in the lab document
+
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+Linter Notes: None
+
+-------------------------------------------------------------------------------
+
+10/05/24 09:52
+
+Problem 1 (5 points): An error has occurred.
+Check the following:
+  - You removed the "raise NotImplementedError()" from your code
+  - prob1() has the following line of code: return "<Your Name Here>"
+  - You saved your changes
+  - You correctly uploaded your changes to GitHub via the instructions in the lab document
+
+Score += 0
+
+Problem 2 (5 points): An error has occurred.
+Check the following:
+  - You removed the "raise NotImplementedError()" from your code
+  - problem2() has the following line of code: return "<Your Name Here>"
+  - You saved your changes
+  - You correctly uploaded your changes to GitHub via the instructions in the lab document
+
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+Linter Notes: None
+
+-------------------------------------------------------------------------------
+
